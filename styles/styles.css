@@ -187,7 +187,10 @@ p::selection{
 }
 p::after{
     /* let the use know more is coming by inserting ...  */
-    content: '...'
+    content: '...';
+}
+footer p::after{
+    content: '';
 }
 
 /* ------ Responsive styles ---- */
