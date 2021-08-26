@@ -159,11 +159,15 @@ footer{
     padding: 10px; 
     text-align: center;
 }
+.scroll-sec{
+margin-bottom: 166px;
+}
 
 .headings{
     text-align: center;
     font-size: 63px;
     color: #320902;
+    margin-top: 30px;
 }
 /* pseudo classes */
 nav li a:hover{
